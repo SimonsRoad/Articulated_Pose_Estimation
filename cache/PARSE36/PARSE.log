@@ -1,0 +1,617 @@
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',1,1)">globals at 1</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',2,1)">globals at 2</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',3,1)">globals at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',4,1)">globals at 4</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',5,1)">globals at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',6,1)">globals at 6</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',7,1)">globals at 7</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',8,1)">globals at 8</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',9,1)">globals at 9</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',10,1)">globals at 10</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',11,1)">globals at 11</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',12,1)">globals at 12</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',13,1)">globals at 13</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',14,1)">globals at 14</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',15,1)">globals at 15</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',16,1)">globals at 16</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',17,1)">globals at 17</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',18,1)">globals at 18</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',19,1)">globals at 19</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',20,1)">globals at 20</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',23,1)">globals at 23</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/detection/testmodel.m',5,1)">testmodel at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',374,1)">main at 374</a>] 
+mean APK = 60.0
+Keypoints & Head & RShou & URArm & LRArm & LShou & ULArm & LLArm & Torso & URLeg & LRLeg & ULLeg & LLLeg
+APK       & 76.4 & 74.2 & 65.7 & 54.7 & 69.5 & 61.3 & 50.7 & 100.0 & 58.1 & 38.7 & 74.3 & 71.8 
+main
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',1,1)">globals at 1</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',2,1)">globals at 2</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',3,1)">globals at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',4,1)">globals at 4</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',5,1)">globals at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',6,1)">globals at 6</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',7,1)">globals at 7</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',8,1)">globals at 8</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',9,1)">globals at 9</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',10,1)">globals at 10</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',11,1)">globals at 11</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',12,1)">globals at 12</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',13,1)">globals at 13</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',14,1)">globals at 14</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',15,1)">globals at 15</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',16,1)">globals at 16</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',17,1)">globals at 17</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',18,1)">globals at 18</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',19,1)">globals at 19</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',20,1)">globals at 20</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',23,1)">globals at 23</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',2,1)">main at 2</a>] 
+if system_dependent('IsDebugMode')==1, dbcont; end
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',1,1)">globals at 1</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',2,1)">globals at 2</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',3,1)">globals at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',4,1)">globals at 4</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',5,1)">globals at 5</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',6,1)">globals at 6</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',7,1)">globals at 7</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',8,1)">globals at 8</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',9,1)">globals at 9</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',10,1)">globals at 10</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',11,1)">globals at 11</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',12,1)">globals at 12</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',13,1)">globals at 13</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',14,1)">globals at 14</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',15,1)">globals at 15</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',16,1)">globals at 16</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',17,1)">globals at 17</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',18,1)">globals at 18</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',19,1)">globals at 19</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',20,1)">globals at 20</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: Function
+/home/ruan/comman/lib/vlfeat-0.9.18/toolbox/noprefix/det.m
+has the same name as a MATLAB builtin. We
+suggest you rename the function to avoid a
+potential name conflict.] 
+[> In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/path.m',110,1)">path at 110</a>
+  In <a href="matlab: opentoline('/usr/local/MATLAB/MATLAB_Production_Server/R2013a/toolbox/matlab/general/addpath.m',87,1)">addpath at 87</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/globals.m',23,1)">globals at 23</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',3,1)">trainmodel at 3</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 
+[Warning: File 'cache/BUFFY.log' not found.] 
+[> In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/learning/trainmodel.m',6,1)">trainmodel at 6</a>
+  In <a href="matlab: opentoline('/home/ruan/myworkspace/Articulated_Pose_Estimation/main.m',362,1)">main at 362</a>] 

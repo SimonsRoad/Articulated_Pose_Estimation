@@ -1,0 +1,4 @@
+mean APK = 79.5
+Keypoints & Head & RShou & URArm & LRArm & LShou & ULArm & LLArm & Torso & URLeg & LRLeg & ULLeg & LLLeg
+APK       & 100.0 & 100.0 & 96.2 & 74.3 & 100.0 & 96.8 & 78.6 & 100.0 & 73.9 & 49.5 & 75.2 & 51.6 
+readTrain210Annopoints
