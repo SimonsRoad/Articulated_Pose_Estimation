@@ -17,7 +17,7 @@ area = areas(floor(length(areas) * 0.05));
 nw = sqrt(area/aspect);
 nh = nw*aspect;
 %nf = length(features(zeros([3 3 3]),1));
-nf = 45;
+nf = 31;
 
 % size of HOG features
 if nargin < 2

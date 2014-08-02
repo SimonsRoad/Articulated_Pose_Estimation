@@ -16,6 +16,7 @@ feat = double(featBefore(2:M-1,2:N-1,:));
 %}
 
 %% use c-hog
+%{
 B = 9; % set the number of histogram bins
 [L,C,KK]=size(simage);
 stepx = floor(C/(sbin));
@@ -28,6 +29,18 @@ hy = -hx';
 grad_xrBe = imfilter(double(simage), hx);
 grad_yuBe = imfilter(double(simage), hy);
 mangitsBe = ((grad_yuBe.^2)+(grad_xrBe.^2)).^.5;
+
+%{
+flag = 1;
+sum1 = sum(mangitsBe(:,:,1));
+for k = 2:KK
+    if sum(mangitsBe(:,:,k) > sum1)
+        flag = k;
+    end
+end
+grad_xr(:,:) = grad_xrBe(:,:,flag);
+grad_yu(:,:) = grad_yuBe(:,:,flag);   % for color image
+%}
 
 for i = 1:L
     for j = 1:C
@@ -44,32 +57,6 @@ for i = 1:L
     end
 end
 
-%{
-flag = 1;
-sum1 = sum(mangitsBe(:,:,1));
-for k = 2:KK
-    if sum(mangitsBe(:,:,k) > sum1)
-        flag = k;
-    end
-end
-grad_xr(:,:) = grad_xrBe(:,:,flag);
-grad_yu(:,:) = grad_yuBe(:,:,flag);   % for color image
-%}
-%{
-simage = uint8(simage);       %for gray image
-simage = rgb2gray(simage);
-B = 9;
-[L, C] = size(simage);
-stepx = floor(C/(sbin));
-stepy = floor(L/(sbin));
-featBefore = zeros(stepx,stepy,5*B);
-H = zeros(5*B,1);
-cont = 0;
-hx = [-1, 0, 1];
-hy = -hx';
-grad_xr = imfilter(double(simage), hx);
-grad_yu = imfilter(double(simage), hy);  % end of gray image
-%}
 angles = atan2(grad_yu, grad_xr);
 mangits = ((grad_yu.^2)+(grad_xr.^2)).^.5;
 
@@ -139,14 +126,18 @@ Center = floor(Center);
 feat = extractRGT(simage, rows, cols, NRid, Ntheta, Center);
 %}
 
-%% basic fft
+%% basic polar image
 %{
 [L,C,KK]=size(simage);
 polorIm = imlogpolar(simage,L,C,'bilinear');
-feat = (abs(fft2(polorIm)));
-featBefore = vl_hog(single(feat), sbin, 'verbose', 'variant','uoctti');
+%feat = (abs(fft2(polorIm)));
+%featBefore = vl_hog(single(feat), sbin, 'verbose', 'variant','uoctti');
+featBefore = vl_hog(single(polorIm), sbin, 'verbose', 'variant','uoctti');
 [M,N,K] = size(featBefore);
 feat = double(featBefore(2:M-1,2:N-1,:));
 %}
+
+%% RIFF
+
 end
 
