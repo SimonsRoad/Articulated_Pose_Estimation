@@ -1,4 +1,4 @@
-function riff = extractRIFF(im, Radius, Theta)
+function [riff, rgtx, rgty] = extractRIFF(im, Radius, Theta)
 
 im = double(im);
 [L, C, K] = size(im);
@@ -14,7 +14,6 @@ maxSize = max(padL, padC);
 padIm = padarray(im, [maxSize - L, maxSize - C]);
 
 Center = [maxSize/2, maxSize/2];
-
 
 numRids = maxSize / (2 * Radius);
 B = 9;
@@ -36,15 +35,21 @@ end
 angles = atan2(grad_y, grad_x);
 magnit = ((grad_y.^2)+(grad_x.^2)).^.5;  
 
-
+%%{
 %% for each pixel to compute RGT
 for i = 1 : L
-    for j = 1 : C
-        radial = [i - Center(1); j - Center(2)];
-        tangential = [1; -radial(1) / radial(2)];
-        gradient = [angles(i, j); 1] * magnit(i,j) / sqrt(angles(i, j)^2 + 1);
+    for j = 1 : C         
+        % normal RGT        
+        %radial = [L-i+1 - Center(1); j - Center(2)] ./ ((L-i+1 - Center(1))^2 + (j - Center(2))^2)^.5;
+        % approximate RGT
+        radial = chooseARGT(L-i+1, j, Center);
+
+        tangential = [-radial(2); radial(1)];        
+        
+        %gradient = [angles(i, j); 1] .* magnit(i,j) ./ sqrt(angles(i, j)^2 + 1);    
+        gradient = [grad_y(i, j); grad_x(i,j)];
         rgtx(i, j) = gradient' * radial;
-        rgty(i, j) = gradient' * tangential;    
+        rgty(i, j) = gradient' * tangential;  
     end
 end
 
@@ -84,7 +89,7 @@ for i = 1 : numRids
     H2=H2/(norm(H2)+0.01);        
     H((cont-1)*B+1:cont*B,1)=H2;
 end          
-
+%}
 %{
 %   testannulis == 1  inCircle    else   inArea
 TESTANNULIS = 0;
@@ -138,7 +143,6 @@ else
             end
             imshow(mat, [-1 1]);
             
-
             for j = 1:length(mask)
                 v_angles(j, 1) = angles(mask(j, 1), mask(j, 2));
                 v_magnit(j, 1) = magnit(mask(j, 1), mask(j, 2));
@@ -171,6 +175,33 @@ end
  riff = H;
 end
 
+function radial = chooseARGT(x, y, Center)
+    angle = [-pi : 2*pi/9 : pi];
+   answer = [-8*pi/9 : 2*pi/9 : 8*pi/9];
+   
+    yy = x - Center(1);
+    xx = y - Center(2);
+    theta = atan(yy/xx);
+    
+    if yy > 0 && xx < 0    % 2 -> 1
+        theta = theta + pi;
+    elseif yy < 0 && xx < 0   % 3 -> 2
+        theta = theta + pi;
+    elseif yy < 0 && xx > 0   % 4  -> 3
+        theta = theta + 2*pi;
+    %elseif y > 0 && x > 0
+    %    theta = theta;
+    end    
+    
+    for i = 1: 9
+        if theta > angle(i) && theta <= angle(i+1)
+            theta = answer(i);
+        end
+    end
+    
+    radial = [sin(theta); cos(theta)];
+end
+
 function mask = inArea(Center, Radius, Theta, i, j)
     cnt = 0;
     mask = [];
@@ -191,7 +222,7 @@ function mask = inArea(Center, Radius, Theta, i, j)
         Theta2 = Theta/2 + j * Theta;
         for m = -R2 + Center(1) : Center(1) + R2
             for n = -R2 + Center(2) : Center(2) + R2
-                if ((m-Center(1))*(m-Center(1)) + (n-Center(2))*(n-Center(2)) < R2*R2) && ((m-Center(1))*(m-Center(1)) + (n-Center(2))*(n-Center(2)) >= R1*R1) && isContain(Center, m, n, Theta1, Theta2)
+                if ((m-Center(1))*(m-Center(1)) + (n-Center(2))*(n-Center(2)) < R2*R2) && ((m-Center(1))*(m-Center(1)) + (n-Center(2))*(n-Center(2)) >= R1*R1) && isContain(Center, m, n, Theta1, Theta2, Theta)
                     cnt = cnt + 1;
                     mask(cnt,1) = m;
                     mask(cnt,2) = n;
@@ -203,37 +234,56 @@ function mask = inArea(Center, Radius, Theta, i, j)
     mask = int8(mask);
 end
 
-function flag = isContain( Center, m, n, Theta1, Theta2 )
+function flag = isContain( Center, m, n, Theta1, Theta2, Theta)
 flag = 0;
+
+m = Center(1) + Center(2) - m + 1;
+
 
 y = m - Center(1);
 x = n - Center(2);
 
-theta = atan(y/x);
-
-if y > 0 && x < 0    % 2 -> 1
-    theta = theta + pi;
-elseif y < 0 && x < 0   % 3 -> 2
-    theta = theta + pi;
-elseif y < 0 && x > 0   % 4  -> 3
-    theta = theta + 2*pi;
-%elseif y > 0 && x > 0
-%    theta = theta;
-end
-
-if  Theta1 < 0
-    if (theta > 0) && (theta < Theta2)
+if y == 0
+    if (Theta2 < Theta/2+0.01 && Theta1 > -Theta/2-0.01) && x > 0
         flag = 1;
-    elseif (theta > 3*pi/2) && ((theta - 2*pi) > Theta1)
+    elseif (Theta1 > pi - Theta/2 -0.01 && Theta2 < pi + Theta/2 + 0.01) && x < 0
         flag = 1;
-    else
-        flag = 0;
+    end
+elseif x == 0
+    if (Theta1 > 3*pi/2 - Theta/2 - 0.01 && Theta2 < 3*pi/2 + Theta/2 + 0.01) && y < 0
+        flag = 1;
+    elseif (Theta1 > pi/2 - Theta/2 - 0.01 && Theta2 < pi/2 + Theta/2 + 0.01) && y > 0
+        flag = 1;
     end
 else
-    if theta > Theta1 && theta < Theta2
+    theta = atan(y/x);
+
+    if y > 0 && x < 0    % 2 -> 1
+        theta = theta + pi;
+    elseif y < 0 && x < 0   % 3 -> 2
+        theta = theta + pi;
+    elseif y < 0 && x > 0   % 4  -> 3
+        theta = theta + 2*pi;
+    %elseif y > 0 && x > 0
+    %    theta = theta;
+    end
+
+    if theta < Theta2 && theta > Theta1 && Theta1 > 0
         flag = 1;
-    else
-        flag = 0;
+    elseif Theta1 < 0
+        Theta1 = Theta1 + pi*2;
+        if theta > Theta1 && theta < 2*pi
+            flag = 1;
+        elseif theta > 0 && theta < Theta2
+            flag = 1;
+        end
+    
+        %{
+    elseif Theta1 < 0 && theta < 0 && theta > Theta1
+        flag = 1;
+    elseif Theta1 < 0 && theta > 0 && theta < Theta2
+        flag = 1;
+        %}
     end
 end
 
